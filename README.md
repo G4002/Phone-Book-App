@@ -152,5 +152,3 @@ Mini Project – Phone Book App
 Implemented as part of C programming mini project.
 
 ---
-
-## END
